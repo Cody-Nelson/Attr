@@ -1,4 +1,5 @@
-Attr is an attribute utility library for Luau.
+# Attr
+Attr is an attribute utility library for Roblox.
 
 It is highly recommended to use Attr with [t by Osyris](https://github.com/osyrisrblx/t) for typechecking. The `t` library provides simple typechecking methods that can be passed into Attr as validators.
 
